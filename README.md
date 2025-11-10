@@ -31,8 +31,9 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-### NAME : AANKARSH J
-### REG.NO: 212223233001
+## Exp-8-Record-THRESHOLDING ##
+## NAME : AANKARSH J ##
+## REG.NO: 212223233001 ## 
 
 # Load the necessary packages
 ```
